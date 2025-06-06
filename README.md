@@ -2,7 +2,7 @@
 lvEditor is a simple and modern looking Java text editor that focuses on functionality and simplicity.
 ![lvEditor demo](demo-lvEditor.gif)
 ## How to compile?
-If you want to use lvEditor, you can go to [releases](https://github.com/fragis0/lvEditor/releases) to see the releases, otherwise you can compile using these commands:
+If you want to use lvEditor, you can go to [releases](https://github.com/fragis0/lvEditor/releases), otherwise you can compile using these commands:
 
 **Get source files:**
 ```
