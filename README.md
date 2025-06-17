@@ -25,3 +25,6 @@ cp res/icon.png out
 jar cfm lvEditor.jar MANIFEST.MF -C out .
 ```
 **Done!** You have compiled lvEditor into single .jar that includes all files required.
+
+## Warning!
+To run source code or .jar, you need to use **JDK**, not JRE, recommended to run with **Adoptium JDK**
